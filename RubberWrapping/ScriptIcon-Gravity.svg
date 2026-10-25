@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="129.00717" height="128.94817" viewBox="0 0 129.00717 128.94817" role="img" aria-labelledby="title desc">
+  <title id="title">RubberWrapping — Gravity</title>
+  <desc id="desc">A downward arrow and a flexible orange membrane wrapping over a three-dimensional body.</desc>
+  <defs>
+    <linearGradient id="rubber" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffd891"/>
+      <stop offset="1" stop-color="#f3704a"/>
+    </linearGradient>
+  </defs>
+  <rect width="129.00717" height="128.94817" rx="26" fill="#fff1e6"/>
+  <path d="M64.5 13V35" fill="none" stroke="#eb784d" stroke-width="6" stroke-linecap="round"/>
+  <path d="M54 28L64.5 40L75 28" fill="none" stroke="#eb784d" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M24.75 94.5L64.5 117L105 94.5" fill="none" stroke="#d7a187" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M36 75.75L62.25 60.75L88.5 75.75L62.25 90.75Z" fill="#637f92"/>
+  <path d="M36 75.75L62.25 90.75V112.5L36 97.5Z" fill="#435f76"/>
+  <path d="M62.25 90.75L88.5 75.75V97.5L62.25 112.5Z" fill="#334d65"/>
+  <path d="M13.5 63C28.5 61.5 40.5 46.5 54.75 45.75C66.75 45.75 72 57.75 78.75 63.75C88.5 72.75 101.25 69 115.5 63.75L110.25 84C99 90 89.25 84.75 79.5 81.75C70.5 78.75 65.25 69 54.75 69C40.5 69 27.75 84.75 18.75 87Z" fill="url(#rubber)" stroke="#f79362" stroke-width="2.25" stroke-linejoin="round"/>
+  <path d="M13.5 63C28.5 61.5 40.5 46.5 54.75 45.75C66.75 45.75 72 57.75 78.75 63.75C88.5 72.75 101.25 69 115.5 63.75" fill="none" stroke="#fff4d4" stroke-width="3" stroke-linecap="round"/>
+</svg>

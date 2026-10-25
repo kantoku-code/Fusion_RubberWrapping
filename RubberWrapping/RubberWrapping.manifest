@@ -1,0 +1,12 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"author":	"kantoku",
+	"description":	{
+		"":	""
+	},
+	"version":	"0.0.1",
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"iconFilename":	"ScriptIcon-Gravity.svg"
+}
